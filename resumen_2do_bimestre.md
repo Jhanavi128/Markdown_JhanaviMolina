@@ -1,6 +1,7 @@
 # Resumen de Contenidos – Programación II GR2SW
 ## 2do Bimestre
 
+Nombre : Jhanavi Molina 
 ### Introducción
 Durante el segundo bimestre de Programación II se trabajaron conceptos relacionados con el diseño de Software, la organización del código y el manejo de datos, el enfoque principal fue aprender a estructurar aplicaciones de forma ordenada, mantenible y escalable, aplicando buenas prácticas de programación.
 
